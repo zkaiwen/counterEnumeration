@@ -1,0 +1,9 @@
+Type make to make the program
+	requires Boost libraries for graph functions
+
+run script verification.sh to run the program.
+	sh verification.sh
+
+circuits are located in circuits/g folder
+
+to find counters in a specific circuit replace the circuit name in verification.sh

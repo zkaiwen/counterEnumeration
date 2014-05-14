@@ -1,0 +1,8 @@
+5
+3 0 I0 1 I1 4 I2
+1 3 O
+0 IN 0  1 2 O
+1 IN 0  1 2 O
+2 ANDX 2 1 I0 0 I1  1 3 O 
+3 ANDX 2 2 I0 4 I1  0 
+4 IN 0 1 3 O
